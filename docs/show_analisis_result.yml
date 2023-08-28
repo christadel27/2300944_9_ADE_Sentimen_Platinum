@@ -1,0 +1,13 @@
+tags:
+  - name: Show Analisis Result from Database
+paths:
+  /show_analisis_result:
+get:
+  description: get API Information
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
