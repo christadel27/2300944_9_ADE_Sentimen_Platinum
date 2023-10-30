@@ -10,3 +10,5 @@ LSTM adalah salah satu modifikasi dari recurrent neural network atau RNN, LSTM
 
 untuk mendapatkan informasi lebih lanjut dapat membuka ppt yang ada diatas.
 Terimakasih 
+selama 4 bulan belajar dengan baik akhirnya saya lulus dengan baik dimana mendapatkan sertifikat menjadi murid yang paling terprogres
+![image](https://github.com/christadel27/2300944_9_ADE_Sentimen_Platinum/assets/133072315/01ccc73e-829b-47ca-b35d-2cd8a4c04695)
